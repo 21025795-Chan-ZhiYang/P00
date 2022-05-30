@@ -13,6 +13,8 @@ Calculator cal;
 		a = 4321;
 		b = 1234;
 		cal = new Calculator();
+		
+		
 	}
 
 	@Test
